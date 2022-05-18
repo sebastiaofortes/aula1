@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+teste
+hello :) :)
+=======
 Gerando conflito 
+>>>>>>> 17a4ad845e2e7bf28e9a3d5e38065404fc792f7f
